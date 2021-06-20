@@ -1,0 +1,8 @@
+sample.txt it is a sample file for tasks.
+next task : create a java file
+compile and create a class file
+push it to github.
+then pull
+then add some more commands in java file
+compile then find the diff. and then push it to github.
+
